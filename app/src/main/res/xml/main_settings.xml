@@ -70,6 +70,11 @@
             android:title="@string/autoconnect_settings"
             android:defaultValue="false" />
 
+        <SwitchPreference
+            android:key="auto_change_strategies_wifi-mobile"
+            android:title="@string/autoconnect_settings"
+            android:defaultValue="false" />
+
     </androidx.preference.PreferenceCategory>
 
     <androidx.preference.PreferenceCategory
